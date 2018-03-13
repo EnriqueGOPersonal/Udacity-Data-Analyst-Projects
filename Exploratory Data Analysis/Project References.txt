@@ -1,4 +1,5 @@
 https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
 
 https://s3.amazonaws.com/content.udacity-data.com/courses/ud651/diamondsExample_2016-05.html
+
 https://docs.google.com/document/d/e/2PACX-1vRmVtjQrgEPfE3VoiOrdeZ7vLPO_p3KRdb_o-z6E_YJ65tDOiXkwsDpLFKI3lUxbD6UlYtQHXvwiZKx/pub?embedded=true
